@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/admin/git/three-js-csg/demo/src'
+let g:netrw_dirhist_2='/Users/admin/git/electron-template'
+let g:netrw_dirhist_3='/Users/admin/git/geom-test'
+let g:netrw_dirhist_4='/Users/admin/git/div/figwheel-tut/src/figwheel-tut/core.cljs'
